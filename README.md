@@ -56,3 +56,4 @@ vim.keymap.set("n", "<leader>he", harpoon.telescope, { desc = "[h]arpoon [e]xplo
     - [ ] Number the buffers
     - [ ] Reorder buffers
     - [ ] Delete buffers
+ - [ ] Add my own docs
