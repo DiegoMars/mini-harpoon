@@ -2,11 +2,12 @@
 Here is my version of [ThePrimeagen/harpoon](https://github.com/ThePrimeagen/harpoon)
 
 ## Dependencies
-Currently, the only dependency is telescope to view the list of harpooned files.
+Currently, the only dependency is [telescope](https://github.com/nvim-telescope/telescope.nvim) 
+to view the list of harpooned files.
 
 ## Installation
 I am currently using [lazy.nvim](https://github.com/folke/lazy.nvim), so here 
-is the instilation that I have:
+is the installation that I have:
 ```lua
 {
   "DiegoMars/mini-harpoon",
