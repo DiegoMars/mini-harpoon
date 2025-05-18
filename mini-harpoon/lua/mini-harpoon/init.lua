@@ -1,6 +1,6 @@
--- File: lua/myharpoon/init.lua
+-- File: lua/mini-harpoon/init.lua
 local M = {}
-local data_path = vim.fn.stdpath("data") .. "/myharpoon.json"
+local data_path = vim.fn.stdpath("data") .. "/mini-harpoon.json"
 local encode = vim.fn.json_encode
 local decode = vim.fn.json_decode
 
